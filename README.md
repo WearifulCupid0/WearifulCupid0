@@ -4,5 +4,5 @@
   <br />
   <img height="190em" src="http://github-readme-streak-stats.herokuapp.com?user=WearifulCupid0&border_radius=5&date_format=j%20M%5B%20Y%5D&type=png&background=161A1D&border=FFFFFF&stroke=FFFFFF&ring=EB5454&fire=EB5454&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=B2B2B2)]" class="center">
   <br />
-  <img src="https://github.com/andrelucaas/andrelucaas/blob/output/github-contribution-grid-snake.svg" class="center">
+  <img src="https://github.com/ooalberto/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg" class="center">
 </p>
